@@ -1,0 +1,42 @@
+I have created Product component for fetching product details. 
+I have created Featured Product component for fetching limited product data.
+I have created carousel image component for display products Images.
+I have created created formatPrice for calulating amount dollor from rupess.
+I have implemeted Rating funcnality for counting total number of Ratings.
+
+
+stripe account///////////
+
+email: pra.globaliasoft@gmail.com,
+password: Password 123 @#
+
+auth0 account //////////////
+
+email: pra.globaliasoft@gmail.com,
+password: Password123#
+
+published key : - pk_test_51MMOTvSI0teqsXhq0UNflS1suwugisOWTLusw5jFPGbADCbRGaaMqw9ncAbDHAmkL8lqMAqv2D881DEpqiklIaI100v2zjUM4P
+secreat key : - sk_test_51MMOTvSI0teqsXhqhfcoCuWmuL7viD0mGCWWlNUKPM7SkeLHZOz5K5efbW6lgP7gCErPE38fFzPpPVuK4ROEo2WS00yZEr5q5d
+
+
+Following are the updates on 9, Jan 2023.
+
+
+List of Doing tasks:
+------------------------------------------------------------------------
+
+1) I have Added Filter functionality with api. 
+2) I have Integreated Add product api with redux with axios.
+3) I have implemeted Rating funcnality for counting total number of Ratings.
+4) I have implemeted filtered product Featuredwise.
+5) I have add Loader and Error handle component and handle them.
+
+List of In-Progress Tasks : 
+-------------------------------------------------------------------------
+I'm working on learning React js.
+
+
+
+
+
+
